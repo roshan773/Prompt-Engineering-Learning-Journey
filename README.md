@@ -222,4 +222,4 @@ You are a confidence coach. Write 3 captions that boost confidence for creators 
 <h3>🧠 Reflection</h3>
 <p>Today I explored the concept of <strong>Few-Shot Prompting</strong> and how giving examples strengthens the AI’s understanding and output.</p>
 <p>I practiced writing <strong>style-specific prompts</strong> and began thinking like a <strong>prompt designer</strong>. I also built confidence in applying this knowledge in real-world content creation.</p>
->
+
