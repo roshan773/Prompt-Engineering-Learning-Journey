@@ -162,3 +162,47 @@ They guide the tone, format, and expectations — improving accuracy and consist
 ### 🔹 Q5: Rewrite this into a Few-Shot Prompt:  
 **Original:** "Write captions for a birthday post"  
 **✅ Improved:**  
+
+---
+
+## 🚀 Day 3 – Prompt Engineering & Applied Practice
+
+### 📌 What I Learned:
+
+#### ✅ Chain of Thought (CoT) Prompting
+- Helps break down complex tasks into logical steps.
+- Encourages step-by-step reasoning from the AI.
+- Great for improving clarity and depth in answers.
+
+#### ✅ Multi-Prompt Workflow
+- Ask one question per prompt for deeper understanding.
+- Used for structured exploration of broad topics.
+- Example use cases practiced:
+  - Trade market step-by-step questions.
+  - Career guidance topic.
+  - Fitness and diet journey prompts.
+
+---
+
+### 💻 Topics Practiced with Prompts:
+- 🥗 **Diet Plan**: 90-day muscle gain plan (veg + non-veg).
+- 💼 **Career Roadmap**: Beginner to developer in 1 year for MNC placement.
+- 📈 **Stock Market**:
+  - What is trading?
+  - Workflow of the market.
+  - When to buy/sell shares.
+  - Basics of Sensex and making profits.
+- 📊 **Trader Strategy**: Tips for recovering losses and starting profit-making journey.
+
+---
+
+### 🎯 Skills Improved:
+- How to structure prompts for detailed answers.
+- Writing prompts for real-life use cases (health, career, finance).
+- Using bullet points and excel-style ideas in prompts.
+
+---
+
+### 🧠 Highlight:
+> Learned how **structured prompts** lead to more accurate and helpful responses.
+> Practiced CoT and single-question prompting for clean flow and clarity.
