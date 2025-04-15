@@ -19,7 +19,7 @@ Creator: **Roshan Pakhre** (Full Stack Developer)
 
 ## 📘 Learning Logs
 
-### 📅 Day 1 – April 9, 2025  
+## 📅 Day 1 – April 9, 2025  
 🎓 Level: Basic  
 🕒 Duration: 1 hour  
 ✅ Status: Completed  
